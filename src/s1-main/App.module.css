@@ -1,6 +1,8 @@
 .App {
     --header_height: 60px;
-    font-family: sans-serif;}
+    font-family: sans-serif;
+    max-width: 1280px;
+}
 
 .hw {
     width: 1280px;
